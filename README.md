@@ -4,5 +4,5 @@ BoiBinimoy is a web-based platform where people can share or sale books in a cer
 #### Objective:
 The books giver and books receiver can go with a convenient way by an easy, user interactive and feasible web-based system. The main target is to make a web-based system providing book lend facilities where user to user book share or sell will be very easy.
 
-Developed a web-based system where user can share or sale books. I have used ASP.NET MVC, C#, Bootstrap, CSS, JavaScript, and AJAX.
+
 ## Video demonstration of this project: https://cutt.ly/omwqcna
