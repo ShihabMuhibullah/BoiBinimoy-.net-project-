@@ -7,4 +7,4 @@ The books giver and books receiver can go with a convenient way by an easy, user
 
 ## Video demonstration of this project: https://cutt.ly/omwqcna
 
-![alt text](![image](https://user-images.githubusercontent.com/76213784/129294933-f06e36ce-c4fc-489b-bda3-85696483509e.png)) 
+![alt text]![image](https://user-images.githubusercontent.com/76213784/129294933-f06e36ce-c4fc-489b-bda3-85696483509e.png)
